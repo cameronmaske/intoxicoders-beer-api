@@ -1,0 +1,8 @@
+*.pyc
+*.pyo
+*~
+.Python
+
+bin
+include
+lib
