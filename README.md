@@ -1,9 +1,10 @@
+### Looking for the [slide deck](https://github.com/intoxicoders/intoxicoders-beer-api.git)?
+
 To get python up and running with virtualenv (non-Windows, sorry :(). With the commands sudo, you will need to enter your password.
 
 > sudo easy_install pip
 
 > sudo pip install virtualenv
-
 
 To get this up and running (non-Windows):
 
