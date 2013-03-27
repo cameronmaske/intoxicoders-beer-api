@@ -1,3 +1,5 @@
+### Looking for the [slide deck](https://github.com/intoxicoders/intoxicoders-beer-api.git)?
+
 To get this up and running (non-Windows):
 
 > git clone https://github.com/cameronmaske/intoxicoders-beer-api.git intoxicoders
